@@ -2,7 +2,7 @@
 A Python script to control mouse cursor using hand gestures detected by MediaPipe.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Libraries: `mediapipe==0.10.14`, `opencv-python==4.10.0.84`, `pyautogui==0.9.54`, `numpy==1.26.4`
 
 ## Setup
